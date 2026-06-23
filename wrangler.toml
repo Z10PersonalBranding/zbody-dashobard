@@ -5,4 +5,4 @@ compatibility_date = "2024-01-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "zbody-db"
-database_id = "COLE_O_ID_AQUI"
+database_id = ea6442c8-3bf9-44ca-a793-eb0b4bf0c443
